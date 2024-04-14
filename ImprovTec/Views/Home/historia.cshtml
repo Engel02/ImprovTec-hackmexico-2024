@@ -1,0 +1,48 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<link rel="stylesheet" href="~/css/site.css">
+
+<h1>Reseñas</h1>
+
+<div class="container">
+    <div class="artwork">
+        <a href="historia.html"><img src="~/images/monum_hackMex.jpg" alt="HackMexico"></a>
+    </div>
+
+    <div class="person-container">
+        <div class="person">
+            <img src="~/images/persona.jpg" alt="Persona 1" onclick="showReview(1)">
+            <audio id="audio1">
+                <source src="~/images/audio1.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+        <div class="person">
+            <img src="~/images/persona.jpg" alt="Persona 2" onclick="showReview(2)">
+            <audio id="audio2">
+                <source src="~/images/audio1.mp3" type="audio/mpeg">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+    </div>
+
+    <div class="review" id="review1">
+        <p>Reseña de Guía 1: Imagen Tomada En HackMexico 2024.</p>
+        <button onclick="playAudio(1)">Reproducir Audio</button>
+    </div>
+    <div class="review" id="review2">
+        <p>Reseña de Guía 2:</p>
+        <button onclick="playAudio(2)">Reproducir Audio</button>
+    </div>
+
+    <!-- Botón -->
+    <div class="button-container">
+        <button onclick="window.location.href='@Url.Action("navigator", "home")'">Turistas</button>
+    </div>
+</div>
+
+<script src="~/js/script.js"></script>

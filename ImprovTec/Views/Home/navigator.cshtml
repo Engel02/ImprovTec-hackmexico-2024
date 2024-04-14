@@ -1,0 +1,25 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<link rel="stylesheet" href="~/css/navigator.css">
+<link rel="stylesheet" href="~/css/maps.css">
+
+<!-- Div para el mapa -->
+
+<!-- Botón para iniciar el viaje -->
+<button id="startButton">Iniciar viaje</button>
+
+<script>
+    document.getElementById("startButton").addEventListener("click", function () {
+        window.location.href = "https://demo.roboflow.com/hackmexico2024/1?publishable_key=rf_JdAglpeQKEOFN4B5GtOnr93G18r2";
+    });
+</script>
+
+<div id="map"></div>
+
+<script src="../js/navigator.js"></script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA7PjYNzuXRim312wml7qzm2mIdLqCbaY0&libraries=places&callback=initMap" async defer></script>

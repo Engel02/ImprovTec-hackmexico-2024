@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="~/css/site.css">
+
+<div class="login-container">
+    <div class="logo-container">
+        <img src="~/images/logo/logo.png" alt="Logo">
+    </div>
+    <h2>Iniciar Sesión</h2>
+    <form id="login-form">
+        <input type="text" id="username" placeholder="Usuario" required>
+        <input type="password" id="password" placeholder="Contraseña" required>
+        <button type="submit">Iniciar Sesión</button>
+    </form>
+    <div class="buttons-container">
+        <button onclick="window.location.href='@Url.Action("Home", "home")'">Turistas</button>
+        @* <button onclick="redirectToTourists()">Guías</button> *@
+        <button onclick="redirectToTourists()" class="btn btn-primary" id="btnRedirect">Guías</button>
+
+        <script>
+            document.getElementById("btnRedirect").addEventListener("click", function () {
+                window.location.href = "https://demo.roboflow.com/hackmexico2024/1?publishable_key=rf_JdAglpeQKEOFN4B5GtOnr93G18r2";
+            });
+        </script>
+    </div>
+</div>
+
+<script src="~/js/script.js"></script>

@@ -1,0 +1,7 @@
+D:\DocumentsNewVolume\ImprovTec\ImprovTec\obj\Release\net8.0\PubTmp\Out\ImprovTec.exe
+D:\DocumentsNewVolume\ImprovTec\ImprovTec\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\DocumentsNewVolume\ImprovTec\ImprovTec\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\DocumentsNewVolume\ImprovTec\ImprovTec\obj\Release\net8.0\PubTmp\Out\ImprovTec.dll
+D:\DocumentsNewVolume\ImprovTec\ImprovTec\obj\Release\net8.0\PubTmp\Out\ImprovTec.deps.json
+D:\DocumentsNewVolume\ImprovTec\ImprovTec\obj\Release\net8.0\PubTmp\Out\ImprovTec.runtimeconfig.json
+D:\DocumentsNewVolume\ImprovTec\ImprovTec\obj\Release\net8.0\PubTmp\Out\ImprovTec.pdb

@@ -1,0 +1,35 @@
+[
+  {
+    "nombre": "Angel de la independencia",
+    "descripcion": "Angel de la independencia de la cdmx bonito",
+    "imagenUrl": "../images/angel_indep.jpg"
+  },
+  {
+    "nombre": "Bellas artes",
+    "descripcion": "Vanilleeis",
+    "imagenUrl": "../images/bellas_artes.jpg"
+  },
+  {
+    "nombre": "Catedral",
+    "descripcion": "Schokolade",
+    "imagenUrl": "../images/catedral_zocalo.jpg"
+  },
+  {
+    "nombre": "Monumento a la revoluci�n",
+    "descripcion": "Descripción de otro becher",
+    "imagenUrl": "../images/monum_revo.jpg"
+  },
+  {
+    "nombre": "Torre Latino",
+    "descripcion": "Descripci�n de más becher",
+    "imagenUrl": "../images/torre_latino.jpg"
+  },
+  {
+    "nombre": "Monumento HackMexico 2024",
+    "descripcion": "En honor a todos aquellos que se enfermaron por un burrito",
+    "imagenUrl": "../images/monum_hackMex.jpg"
+  }
+
+
+]
+  

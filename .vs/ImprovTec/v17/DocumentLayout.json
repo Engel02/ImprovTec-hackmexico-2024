@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DocumentsNewVolume\\ImprovTec\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\home\\navigator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\home\\navigator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\js\\navigator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\js\\navigator.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\css\\navigator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\css\\navigator.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\json\\pruebaplaces.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\json\\pruebaplaces.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\home\\home.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\css\\maps.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\css\\maps.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\css\\home.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\js\\guias.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\js\\guias.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\js\\maps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\js\\maps.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\home\\historia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\home\\historia.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\home\\guides.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\home\\guides.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\home\\guias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\home\\guias.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\js\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\home\\maps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\home\\maps.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\views\\home\\imagenes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\views\\home\\imagenes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|d:\\documentsnewvolume\\improvtec\\improvtec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C8C384A-E4CF-4A5B-982A-F435387F4C33}|ImprovTec\\ImprovTec.csproj|solutionrelative:improvtec\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1399344006:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "script.js",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\script.js",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\js\\script.js",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\script.js",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\js\\script.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T14:56:53.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T14:14:42.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "home.js",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\home.js",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\js\\home.js",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\home.js",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\js\\home.js",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwDAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T13:41:07.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "maps.js",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\maps.js",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\js\\maps.js",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\maps.js",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\js\\maps.js",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T13:40:59.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "navigator.js",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\navigator.js",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\js\\navigator.js",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\navigator.js",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\js\\navigator.js",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwC0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T13:40:22.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pruebaPlaces.json",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\json\\pruebaPlaces.json",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\json\\pruebaPlaces.json",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\json\\pruebaPlaces.json",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\json\\pruebaPlaces.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-14T13:39:56.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "guias.js",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\guias.js",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\js\\guias.js",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\guias.js",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\js\\guias.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T13:38:24.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-14T13:37:40.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "home.css",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\home.css",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\css\\home.css",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\home.css",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\css\\home.css",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T13:36:55.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "maps.css",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\maps.css",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\css\\maps.css",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\maps.css",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\css\\maps.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T13:36:34.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "navigator.css",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\navigator.css",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\css\\navigator.css",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\navigator.css",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\css\\navigator.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T13:36:08.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "ImprovTec\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "ImprovTec\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-14T13:35:16.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "maps.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\maps.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Home\\maps.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\maps.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Home\\maps.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:31:26.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "guias.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\guias.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Home\\guias.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\guias.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Home\\guias.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:31:14.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "guides.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\guides.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Home\\guides.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\guides.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Home\\guides.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:30:59.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "historia.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\historia.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Home\\historia.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\historia.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Home\\historia.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:30:32.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "imagenes.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\imagenes.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Home\\imagenes.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\imagenes.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Home\\imagenes.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:30:09.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\home.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Home\\home.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\home.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Home\\home.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:29:51.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "navigator.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\navigator.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Home\\navigator.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\navigator.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Home\\navigator.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:29:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ImprovTec\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ImprovTec\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswDcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T13:24:14.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ImprovTec\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ImprovTec\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-14T13:23:56.939Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

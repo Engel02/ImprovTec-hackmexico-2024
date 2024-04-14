@@ -1,0 +1,166 @@
+@import url('site.css');
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+/*de archivo styles.css*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    /*display: flex;*/
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.museum-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 30px;
+}
+
+.artwork {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20px, 1fr));
+    grid-gap: 20px;
+}
+
+    .artwork img {
+        width: 30%;
+        height: auto;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: transform 0.3s ease;
+    }
+
+        .artwork img:hover {
+            transform: scale(1.05);
+        }
+
+.artwork {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.login-container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.logo-container img {
+    width: 100px;
+    margin-bottom: 30px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input[type="text"],
+input[type="password"],
+button {
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    outline: none;
+}
+
+button {
+    background-color: #f43d80;
+    color: #fff;
+    cursor: pointer;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+    .buttons-container button {
+        flex: 1;
+        margin-right: 5px;
+    }
+
+h1 {
+    text-align: center;
+}
+
+.person-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-top: 20px;
+}
+
+    .person-container .person {
+        margin: 10px; /* Espacio entre las imágenes de las personas */
+    }
+
+.person {
+    margin: 0 10px;
+}
+
+    .person img {
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+
+.review {
+    display: none;
+    margin-bottom: 20px;
+}
+
+    .review p {
+        margin-bottom: 10px;
+    }
+
+.artwork {
+    text-align: center;
+}

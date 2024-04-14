@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\ImprovTec.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImprovTec.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\home.css",
+      "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\maps.css",
+      "PackagePath": "staticwebassets\\css\\maps.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\navigator.css",
+      "PackagePath": "staticwebassets\\css\\navigator.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\angel_indep.jpg",
+      "PackagePath": "staticwebassets\\images\\angel_indep.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\audio1.mp3",
+      "PackagePath": "staticwebassets\\images\\audio1.mp3"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\bellas_artes.jpg",
+      "PackagePath": "staticwebassets\\images\\bellas_artes.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\catedral_zocalo.jpg",
+      "PackagePath": "staticwebassets\\images\\catedral_zocalo.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\ciudadela.jpg",
+      "PackagePath": "staticwebassets\\images\\ciudadela.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\logo\\Logo01.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\Logo01.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\logo\\Logo02.jpg",
+      "PackagePath": "staticwebassets\\images\\logo\\Logo02.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\monum_benito.jpg",
+      "PackagePath": "staticwebassets\\images\\monum_benito.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\monum_hackMex.jpg",
+      "PackagePath": "staticwebassets\\images\\monum_hackMex.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\monum_revo.jpg",
+      "PackagePath": "staticwebassets\\images\\monum_revo.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\persona.jpg",
+      "PackagePath": "staticwebassets\\images\\persona.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\torre_latino.jpg",
+      "PackagePath": "staticwebassets\\images\\torre_latino.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\images\\vaso1.jpg",
+      "PackagePath": "staticwebassets\\images\\vaso1.jpg"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\guias.js",
+      "PackagePath": "staticwebassets\\js\\guias.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\home.js",
+      "PackagePath": "staticwebassets\\js\\home.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\maps.js",
+      "PackagePath": "staticwebassets\\js\\maps.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\navigator.js",
+      "PackagePath": "staticwebassets\\js\\navigator.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\script.js",
+      "PackagePath": "staticwebassets\\js\\script.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\json\\pruebaPlaces.json",
+      "PackagePath": "staticwebassets\\json\\pruebaPlaces.json"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\DocumentsNewVolume\\ImprovTec\\ImprovTec\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.ImprovTec.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.ImprovTec.props",
+      "PackagePath": "build\\ImprovTec.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ImprovTec.props",
+      "PackagePath": "buildMultiTargeting\\ImprovTec.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.ImprovTec.props",
+      "PackagePath": "buildTransitive\\ImprovTec.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
